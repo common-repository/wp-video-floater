@@ -1,0 +1,10 @@
+.wpvf{
+        position: fixed !important;
+        width: 285px !important;
+        height: 160px !important;
+        top: auto !important;
+        left: auto !important;
+        bottom: 5px !important;
+        right: 5px !important;
+        z-index: 999999;
+}
